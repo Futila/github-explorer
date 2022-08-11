@@ -1,7 +1,7 @@
 # Github Explorer
 
 <div align="center">
-    <img src="https://github.com/Futila/ReactMeals/blob/master/src/.github/header.JPG" width="400px" />
+    <img src="https://github.com/Futila/github-explorer/blob/master/src/.github/home.png" width="400px" />
 </div>
 
 ## 💻 Projeto
